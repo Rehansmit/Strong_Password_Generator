@@ -21,6 +21,48 @@ button{
     border-radius: 80px;
     height: 50px;
     width: 80px;
-    justify-items: end
+    justify-items: flex-start
     text align:auto 
+}
+#inputPassword2{
+    width: 400px;
+    height: 50px;
+    border-radius: 50px;
+    justify-content: right;
+}
+
+.btn{
+    border-radius: 50px;
+}
+
+.form-range{
+    width: 200px;
+}
+
+
+.btn2{
+    border-radius: 90px;
+    border: 2px solid gray;
+}
+
+.pink{
+    background-color:  rgb(252,243,227);
+    text-align: center;
+}
+
+h1{
+    justify-content: center;
+    text-align: center;
+}
+
+.pera{
+    
+    text-align: center;
+}
+
+.accordion-item{
+    
+    width: 800px;
+    height: 100px;
+    
 }
